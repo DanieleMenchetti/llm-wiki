@@ -2,15 +2,15 @@
 
 ## [2026-05-03] initialize | Wiki setup
 - Created directory structure (raw/, raw/assets/, wiki/)
-- Created CLAUDE.md schema with complete rules and workflows
+- Created AGENTS.md schema with complete rules and workflows
 - Created index.md
 - Created log.md
 
 ## [2026-05-03] update | Added wiki subdirectories
 - Created wiki/concepts/, wiki/entities/, wiki/sources/, wiki/syntheses/
-- Updated CLAUDE.md directory structure
+- Updated AGENTS.md directory structure
 
-## [2026-05-03] update | Refined CLAUDE.md schema
+## [2026-05-03] update | Refined AGENTS.md schema
 - Updated wiki contents to reflect actual structure (concepts, entities, sources, syntheses)
 - Marked comparisons as optional
 - Updated index template to remove comparisons section

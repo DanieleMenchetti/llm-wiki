@@ -13,7 +13,7 @@ llm-wiki/
 │   ├── entities/         # Entity pages
 │   ├── sources/          # Source summaries
 │   └── syntheses/        # Synthesis pages
-├── CLAUDE.md              # This schema file
+├── AGENTS.md              # This schema file
 ├── index.md               # Content catalog of all wiki pages
 └── log.md                 # Chronological record of operations
 ```
@@ -32,7 +32,7 @@ llm-wiki/
 - **Rule**: LLM owns this layer entirely — creates, updates, maintains
 - **User role**: Read and browse, never edit directly
 
-### 3. Schema (`CLAUDE.md`)
+### 3. Schema (`AGENTS.md`)
 - **Purpose**: Configuration file that instructs the LLM
 - **Contents**: Structure, conventions, workflows
 - **Rule**: Co-evolved by user and LLM over time
@@ -302,7 +302,7 @@ The log is an append-only chronological record:
 
 ## [2026-05-03] initialize | Wiki setup
 - Created directory structure
-- Created CLAUDE.md schema
+- Created AGENTS.md schema
 - Created index.md
 - Created log.md
 ```
